@@ -1,4 +1,4 @@
-//Trabalho AED - grupo 51 João Miranda nº47143
+//Trabalho AED 
 
 import java.util.Iterator;
 import java.util.List;
